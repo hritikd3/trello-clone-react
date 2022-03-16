@@ -1,5 +1,5 @@
 .App {
-  background: rgb(75, 191, 107);
+  background: rgb(28, 80, 177);
   height: 100vh;
 }
 
@@ -9,6 +9,6 @@
   padding: 5px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
   text-align: center;
-  font-size: 40px;
+  font-size: 48px;
   font-weight: 200;
 }
